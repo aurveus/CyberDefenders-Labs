@@ -36,7 +36,7 @@ This step helped me connect the whole attack flow early on because I first found
 
 ## Question 2 - Identifying the Second Victim Machine
 
-![2nd-victim](2nd-victim.png)
+![2nd-victim](second-victim.png)
 
 After identifying the rogue machine from the first screenshot, I then filtered traffic involving it using:
 
